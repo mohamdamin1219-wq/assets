@@ -1,0 +1,6 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "description": "USD-pegged token on TRON. Not affiliated with Tether."
+}
